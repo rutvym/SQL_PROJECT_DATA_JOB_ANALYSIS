@@ -1,5 +1,5 @@
 - # Introduction
-  Immersing into data job market with a focus on data analyst roles, this project explores top-paying jobs, in demand skills and where high demand meets high salary in data analytics.
+  Immersing into the data job market with a focus on data analyst roles, this project explores top-paying jobs, in-demand skills and where high demand meets high salary in data analytics.
 
 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
@@ -10,7 +10,7 @@ Data comes from the [SQL Course](https://lukebarousse.com\sql). It is packed wit
 
 ### The questions I wanted to answer through my SQL queries were:
 
-1. What are the top-paying data anlayst jobs?
+1. What are the top-paying data analyst jobs?
 2. What skills are required for these top-paying jobs?
 3. What skills are most in demand for data analytics?
 4. Which skills are associated with higher salaries?
@@ -28,7 +28,7 @@ Data comes from the [SQL Course](https://lukebarousse.com\sql). It is packed wit
 
 ### 1. Top Paying Data Analyst Jobs:
 
-To identify the highest-paying roles, I filtered data anlayst positions by average yearly salary, adn location, focusing on remote jobs. This query highlights the high paying opportunity in the field.
+To identify the highest-paying roles, I filtered data analyst positions by average yearly salary, and location, focusing on remote jobs. This query highlights the high-paying opportunity in the field.
 
 ```sql
 SELECT
@@ -62,7 +62,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 
   Throughout the project, I acquired the complex SQL skills of:
 
-- **Complex Query Crafting:** Mastered the art of advanced SQL queries to perform the tasks of merging tables, implementing WITH clauses to create temporary table maneuvrs.
+- **Complex Query Crafting:** Mastered the art of advanced SQL queries to perform the tasks of merging tables, implementing WITH clauses to create temporary table maneuvers.
 
 - **Data Aggregation:** Hands-on practice with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data summarizing skills.
 
@@ -72,7 +72,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 
 ### Insights
 
-From the analysis,several general insights emerged:
+From the analysis, several general insights emerged:
 
 1. **Top-Paying Data Analyst Jobs:** The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000.
 
@@ -86,4 +86,4 @@ From the analysis,several general insights emerged:
 
 ### Closing Thoughts:
 
-This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by foucsing on high-demand, high-salary skills. This exploration highlights the importance of continous learning and adaptation to emerging trends in the field of data analytics.
+This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
